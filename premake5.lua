@@ -1,4 +1,4 @@
-project "jsoncpp"
+project "libjsoncpp"
     kind "StaticLib"
     language "C++"
 
